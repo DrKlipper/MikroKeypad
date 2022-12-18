@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Keypad")(type "Legacy")(uri "C:/Users/Dominik Schmidt/Desktop/temp/kicad-libs-master/misc.lib")(options "")(descr ""))
+  (lib (name "2")(type "Legacy")(uri "C:/Users/Dominik Schmidt/Desktop/temp/kicad-libs-master/YEUTTERG_Generic.lib")(options "")(descr ""))
+)
